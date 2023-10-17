@@ -4,7 +4,7 @@ set -euo pipefail
 
 CLI_VER="0.0.1"
 LOG_FILE="scripts/.cli-$CLI_VER.log"
-KV_TOKEN="AafaASQgMmMwYzM2MTUtMGE1Yi00NzQ0LTg4YmMtMWFmODM5OWQ1ODQwY2E1YjkxOWRmYjY0NDRmYjk1ZTM1YzA1MWE5NDk2ZWY="
+KV_TOKEN=""
 KV_URL="https://nearby-sailfish-42970.kv.vercel-storage.com"
 
 
